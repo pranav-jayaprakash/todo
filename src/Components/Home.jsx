@@ -16,7 +16,7 @@ function Home() {
   return (
     <div>
         <div className='container'>
-            <h2>Todo List</h2>
+            <h2>Profiles</h2>
             <Link to="/create" className='btn btn-success my-3'>Create +</Link>
             <table className='table'>
                 <thead>
