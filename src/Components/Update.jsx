@@ -5,9 +5,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import { updateUser } from './UserReducer';
 
 
-
-
-
 function Update() {
 
     const {id} = useParams();
